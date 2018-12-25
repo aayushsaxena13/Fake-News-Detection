@@ -1,0 +1,4 @@
+# Fake-News-Detection
+Capstone Project for CSC522 - Automated Learning and Data Analysis
+
+With the increased use of social media, we have seen that sharing information has never been easier.With this said, sharing incorrect information and making it viral has also become very easy which is causing a lot of problems as this can be used as a powerful influencing tool. In this project we focus on classifying news articles as Fact or Fake by analyzing the text of the article, its headline and the URL of its source. After some research and exploratory analysis, we compiled a set of features by summarizing the text of the article, finding its sentiment and checking authenticity of the source of the article, which prove to be useful features for the classification process. In addition, we created  models using various classification algorithms and tuned them for automatic detection of fake news articles.
